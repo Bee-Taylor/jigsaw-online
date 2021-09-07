@@ -1,0 +1,12 @@
+{
+  "name": "jigsaw-online",
+  "displayName": "jigsaw-online",
+  "expo": {
+    "name": "jigsaw-online",
+    "slug": "jigsaw-online",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
